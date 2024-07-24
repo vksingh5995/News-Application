@@ -1,4 +1,4 @@
-# News Search Application
+# News Application
 
 This is a web application that allows users to search for news articles using a keyword. The application fetches news articles from a third-party news API and uses OpenAI to summarize the content.
 
@@ -13,7 +13,7 @@ This is a web application that allows users to search for news articles using a 
 
 1. Navigate to the frontend directory:
    ```sh
-   cd news-search-app
+   cd news-app
    ```
 2. Install dependencies:
    ```sh
@@ -29,7 +29,7 @@ This is a web application that allows users to search for news articles using a 
 
 1. Navigate to the backend directory:
    ```sh
-   cd news-search-app/backend
+   cd news-app/backend
    ```
 2. Install dependencies:
    ```sh
@@ -54,7 +54,3 @@ This is a web application that allows users to search for news articles using a 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-```
-
-```
